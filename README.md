@@ -1,8 +1,8 @@
-# Jekyll Modern Blog
+# ::Ram
 
-A Simple, Clean and responsive modern blog for jekyll.
+Art Portfolio 2018
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
